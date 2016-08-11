@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+da peece! ;)
 
-### More Information
+### WhoAmI
+I am a 17 year old guy who really is into programming. I started programming with python since I am 14 years old and already wrote a (not really good) chat client! Currently in my free time I also work on a website with my friend, though this is only a private little website.
 
-A place to include any other types of information that you'd like to include about yourself.
+### My Sayings
+
+ᖱᗩ ᕈᙓᙓᑕᙓ make Love not War. Protect the Internet, the largest project of mankind on Earth. Don't ask for your privacy. Take it back.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lightstar@live.de](mailto:lightstar@live.de)
