@@ -24,7 +24,7 @@ footer-links:
   github: AnthyG
   instagram: glightstar
   linkedin: anthyg
-  pinterest:
+  pinterest: glightstar
   rss: # just type anything here for a working RSS icon
   twitter: glightstar
   stackoverflow: users/5712160/anthyg
@@ -76,3 +76,5 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
+
+theme: minima
